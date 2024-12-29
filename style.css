@@ -1,0 +1,40 @@
+
+
+
+.Registration{padding: 20px; text-align: center; font-size: small;}
+.loginform{padding: 20px; text-align: center; font-size: small;}
+
+
+.registrationlogo{display: flex; justify-content: center; align-items: center;}
+h3{text-align: center; justify-content: center;}
+
+
+
+
+.firstname{display: flex; justify-content: center;  font-size: small; height: 15px;  gap: 30px; }
+.lastname{display: flex; justify-content: center;  font-size: small; height: 15px; gap: 30px; }
+.dob{display: flex; justify-content: center; font-size: small; height: 15px;  gap: 25px;}
+.emailid{display: flex; justify-content: center; font-size: small; height: 15px;gap: 40px; }
+.mobilenumber{display: flex; justify-content: center; font-size: small; height: 15px;gap: 30px;}
+.gender{display: flex; justify-content: center;font-size: small; height: 15px;gap: 30px;}
+.address{display: flex; justify-content: center; font-size: small; gap: 30px;}
+.city{display: flex; justify-content: center;font-size: small; height: 15px;gap: 30px;}
+.pincode{display: flex; justify-content: center;font-size: small; height: 15px;gap: 30px;}
+.state{display: flex; justify-content: center;font-size: small; height: 15px;gap: 30px;}
+.country{display: flex; justify-content: center;font-size: small; height: 15px;gap: 30px;}
+.hobbies{display: flex; justify-content: center;font-size: small; height: 15px; }
+.table{display: flex; justify-content: left;}
+
+.education{display: flex; justify-content: center;font-size: small; }
+h4{display: flex; justify-content: center;}
+.out{display: flex; justify-content: center; }
+.para{gap: 30px;}
+.submitnreset{display: flex; justify-content: center;}
+.COURSES{display:flex; justify-content: center;}
+.file{display: flex; justify-content: center; gap: 30px;}
+.table1{display: flex; justify-content: center;font-size: 6px;}
+
+
+.login{display: flex; justify-content: center;}
+.log{text-align: center; font-size: x-small; gap: 20px; }
+.buttons{display: flex; justify-content: center;}
